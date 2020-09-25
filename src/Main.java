@@ -78,6 +78,7 @@ public class Main extends Application implements MoveHandler {
         vBox.setLayoutX(XMAX + 10);
         vBox.setLayoutY(50);
         vBox.setAlignment(Pos.CENTER);
+        //
 
 
         stage.setScene(scene);
